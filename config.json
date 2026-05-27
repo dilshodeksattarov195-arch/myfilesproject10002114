@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartctringify",
+        "uuid": 2107658,
+        "checksum": "zycbl6"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
